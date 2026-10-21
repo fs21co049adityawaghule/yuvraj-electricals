@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Vercel local
+.vercel/
